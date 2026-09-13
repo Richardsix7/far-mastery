@@ -1,0 +1,9 @@
+{
+  "name": "FAR Mastery",
+  "short_name": "FAR Mastery",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f6fb",
+  "theme_color": "#0b1020",
+  "description": "CPA FAR practice app with explanations and adaptive follow-ups."
+}
